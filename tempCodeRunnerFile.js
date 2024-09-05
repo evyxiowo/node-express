@@ -1,5 +1,3 @@
-const sum = (a, b) => {
-  return a + b;
-};
-
-console.log(sum(10, 10));
+function () {
+  console.log("The call has been made");
+}
